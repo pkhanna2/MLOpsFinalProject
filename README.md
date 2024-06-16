@@ -37,5 +37,5 @@ This project predicts customer satisfaction in Brazilian e-commerce based on rev
 
 ## Contributors
 
-- Prachi Khanna (pkhanna@sandiego.edu)
-- Se'Lina Lasher (slasher@sandiego.edu)
+- Prachi Khanna
+- Se'Lina Lasher
